@@ -5,7 +5,7 @@
 ## 项目列表
 
 <!-- PROJECT_LIST_START -->
-
+### [Autotab 技术解析：构建可审计的浏览器自动化系统](analysis/autotab.md)
 <!-- PROJECT_LIST_END -->
 
 ## 许可证
